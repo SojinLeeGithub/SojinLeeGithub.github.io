@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c10d3ad8.css",
+    "main.js": "/static/js/main.b7d972c8.js",
+    "static/js/453.83d49121.chunk.js": "/static/js/453.83d49121.chunk.js",
+    "static/media/john-fowlerjpg.jpg": "/static/media/john-fowlerjpg.9508a75a9a34553212b5.jpg",
+    "index.html": "/index.html",
+    "main.c10d3ad8.css.map": "/static/css/main.c10d3ad8.css.map",
+    "main.b7d972c8.js.map": "/static/js/main.b7d972c8.js.map",
+    "453.83d49121.chunk.js.map": "/static/js/453.83d49121.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10d3ad8.css",
+    "static/js/main.b7d972c8.js"
+  ]
+}
