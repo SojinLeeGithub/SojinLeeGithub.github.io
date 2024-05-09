@@ -8,7 +8,7 @@
 
 <ul><h2>👽 Result</h2>
   click! to see a completed web page ➡️ https://sojinleegithub.github.io/<br>
-<img src= "https://github.com/SojinLeeGithub/interactive1/assets/159878967/a4eadd42-1c8b-4865-8d67-69b4aba86040">
+<img src= "https://github.com/SojinLeeGithub/SojinLeeGithub.github.io/assets/159878967/ceac720e-be61-4eb1-a4ab-935b4a126234">
 
 <ul><h2>🧠 Opinion</h2>
   <li>By using the basic tools provided by React, the speed and convenience of creating login pages were very fast and convenient.</li>
